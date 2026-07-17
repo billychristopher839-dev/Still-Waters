@@ -90,9 +90,15 @@ const PLAYLIST = [
   "src": "audio/18-how-beautiful-heaven-must-be.mp3"
  },
  {
+  "title": "He Leadeth Me",
+  "artist": "YH7",
+  "src": "audio/19-he-leadeth-me.mp3"
+ },
+ {
   "title": "Here I am to Worship",
   "artist":"Fingerstyle Guitar — Titus Major",
-  "src":"audio/19-here-i-am-to-worship.mp3"
+  "src":"audio/20-here-i-am-to-worship.mp3"
+ }
 ];
 
 // NOTE: "The Old Rugged Cross" was not included because the MP3 was missing from the upload.
