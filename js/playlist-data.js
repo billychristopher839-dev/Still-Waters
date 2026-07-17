@@ -89,10 +89,6 @@ const PLAYLIST = [
   "artist": "Unknown",
   "src": "audio/18-how-beautiful-heaven-must-be.mp3"
  },
- {
-  "title": "He Leadeth Me",
-  "artist": "YH7",
-  "src": "audio/19-he-leadeth-me.mp3"
 ];
 
 // NOTE: "The Old Rugged Cross" was not included because the MP3 was missing from the upload.
