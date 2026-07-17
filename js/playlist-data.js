@@ -86,7 +86,7 @@ const PLAYLIST = [
  },
  {
   "title": "How Beautiful Heaven Must Be",
-  "artist": "Michael W. Smith · Fingerstyle Guitar — Titus Major",
+  "artist": "Unknown",
   "src": "audio/18-how-beautiful-heaven-must-be.mp3"
  }
 ];
