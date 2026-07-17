@@ -83,6 +83,11 @@ const PLAYLIST = [
   "title": "What a Friend We Have in Jesus",
   "artist": "Acoustic Guitar — Titus Major",
   "src": "audio/17-what-a-friend-we-have-in-jesus.mp3"
+ },
+ {
+  "title": "How Beautiful Heaven Must Be",
+  "artist": "Michael W. Smith · Fingerstyle Guitar — Titus Major",
+  "src": "audio/18-how-beautiful-heaven-must-be.mp3"
  }
 ];
 
