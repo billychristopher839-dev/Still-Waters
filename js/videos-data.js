@@ -50,7 +50,7 @@ const VIDEOS = {
     { id: "pxBQLFLei70", title: "Make Your Bed — 2014 Commencement Address", speaker: "Admiral William H. McRaven", note: "University of Texas at Austin" },
     { id: "CzII3W2MLYY", title: "Inspirational Speech", speaker: "Barack Obama", note: "" },
     { id: "pqWUuYTcG-o", title: "2024 Commencement Address at Dartmouth", speaker: "Roger Federer", note: "Dartmouth College" },
-    { id: "XuwYGnvFlNs", title: "How philosophy can save your life", speaker: "Jules Evans", note: "TEDxBreda" },
+    { id: "XuwYvFlNGns", title: "How philosophy can save your life", speaker: "Jules Evans", note: "TEDxBreda" },
     { id: "BAswj8evFZk", title: "How Ethics Can Help You Make Better Decisions", speaker: "Michael Schur ", note: "TEDxVancouver" },
     { id: "8GQZuzIdeQQ", title: "How to make hard choices ", speaker: "Ruth Chang", note: "TEDxNewYork" },
     { id: "JD4Fhh6GDcY", title: "A philosopher’s argument against the cult of achievement", speaker: "Zena Hitz", note: "Big Think" },
